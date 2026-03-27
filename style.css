@@ -319,7 +319,7 @@ footer  a{
     font-size: 12px;
 }
 
-footer .links a:hover{
+footer a:hover{
     color: var(--secondary-color);
 }
 
